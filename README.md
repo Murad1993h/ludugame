@@ -1,12 +1,12 @@
 
-![banner](https://github.com/smokelaboratory/fludo/blob/master/banner.svg)
+
 
 # Fludo
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-2196F3.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![language](https://img.shields.io/github/languages/top/smokelaboratory/fludo.svg?style=for-the-badge&colorB=00bfab)](https://kotlinlang.org/)
 
-Fludo is a Flutter app which uses canvas and animations to build a Ludo board game.
+Ludu is a Flutter app which uses canvas and animations to build a Ludo board game.
 
 ## Features
 
